@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+shop-app/node_modules/
+
+# Production builds
+build/
+shop-app/build/
+
+# Test / coverage output
+coverage/
+shop-app/coverage/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+shop-app/.env
+shop-app/.env.*
+
+# OS / editor files
+.DS_Store
+.vscode/
